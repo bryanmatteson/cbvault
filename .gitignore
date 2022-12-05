@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+dist/
+.python-version
+.tool-versions
+.venv
+.mypy_cache/
+.env
+.idea
+.vscode/
